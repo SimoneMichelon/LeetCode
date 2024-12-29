@@ -13,6 +13,9 @@ class Solution {
                 }
             }
             pascal.add(temp);
+            if(i == rowIndex){
+                return pascal.get(rowIndex);
+            }
         }
 
         System.out.println(pascal);

@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SimoneMichelon/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/SimoneMichelon/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SimoneMichelon/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SimoneMichelon/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SimoneMichelon/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SimoneMichelon/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SimoneMichelon/LeetCode/tree/master/0002-add-two-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

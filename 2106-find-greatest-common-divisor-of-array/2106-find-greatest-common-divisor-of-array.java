@@ -21,10 +21,11 @@ class Solution {
         
         for(int i = half; i >=1; i--){
             if((min % i == 0) && (max % i == 0)){
-                return i;
+                half = i;
+                break;
             }
         }
 
-        return 0;
+        return half;
     }
 }

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SimoneMichelon/LeetCode/tree/master/0002-add-two-numbers) |
+| [2083-three-divisors](https://github.com/SimoneMichelon/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -68,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/SimoneMichelon/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/SimoneMichelon/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SimoneMichelon/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/SimoneMichelon/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SimoneMichelon/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SimoneMichelon/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SimoneMichelon/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/SimoneMichelon/LeetCode/tree/master/0242-valid-anagram) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/SimoneMichelon/LeetCode/tree/master/2083-three-divisors) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SimoneMichelon/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

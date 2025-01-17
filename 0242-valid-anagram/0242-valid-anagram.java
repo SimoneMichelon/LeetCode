@@ -3,7 +3,6 @@ class Solution {
         ArrayList<Integer> asciiS = new ArrayList<Integer>();
         ArrayList<Integer> asciiT = new ArrayList<Integer>();
 
-
         int sLength = s.length();
         int tLength = t.length();
 

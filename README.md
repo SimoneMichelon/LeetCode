@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SimoneMichelon/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SimoneMichelon/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/0228-summary-ranges) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SimoneMichelon/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |

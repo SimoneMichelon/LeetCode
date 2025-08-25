@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SimoneMichelon/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0171-excel-sheet-column-number](https://github.com/SimoneMichelon/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SimoneMichelon/LeetCode/tree/master/0242-valid-anagram) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SimoneMichelon/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SimoneMichelon/LeetCode/tree/master/0002-add-two-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/SimoneMichelon/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [2083-three-divisors](https://github.com/SimoneMichelon/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SimoneMichelon/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
